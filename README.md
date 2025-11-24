@@ -25,7 +25,7 @@ I enjoy clean, predictable, and scalable workflows.
 
 - 📫 **Kontak / Contact**  
   - LinkedIn: [linkedin.com/in/joniheri](https://linkedin.com/in/joniheri)  
-  - Email: joniheri@gmail.com
+  - Email: jonheri001@gmail.com
 
 <!---
 joniheri/joniheri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
